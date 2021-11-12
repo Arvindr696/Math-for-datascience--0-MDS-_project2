@@ -1,0 +1,1 @@
+101,honda,gas,std,two,hatchback,fwd,front,93.70,150.00,64.00,52.60,1956,ohc,four,92,1bbl,2.91,3.41,9.20,76,6000,30,34,7129
