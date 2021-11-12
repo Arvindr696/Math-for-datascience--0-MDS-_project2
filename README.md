@@ -1,1 +1,1 @@
-# Math-for-kids--0-MDS-_project2
+# Math-for-data-science--0-MDS-_project2
